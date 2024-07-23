@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 100px;
+    margin-left: 340px;
+    background-color: rgb(3, 3, 69);
+   
+}
+.all{
+    border: 8px solid rgb(0, 15, 177);
+    background-color: azure;
+    border-radius: 6px;
+    width: 60%;
+    height: max-content;
+}
+.txt{
+    font-size: 18px;
+    border-radius: 4px;
+    padding: 5px;
+    border: 0px;
+    background-color: rgb(128, 213, 255);
+    width: 80%;
+    height:25px;
+    text-align: center;
+}
+button{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 8px;
+    border-radius: 4px;
+}
+.yes{
+    margin-right:60px;
+}
+.no{
+    margin-left: 40px;
+}
+i{
+    font-size: 70px;
+    border: 8px solid black;
+    border-radius: 100%;
+    margin-top:10px;
+    padding: 20px;
+    color: blue;
+}
+button:hover{
+    background-color: blue;
+    color: white;
+}
